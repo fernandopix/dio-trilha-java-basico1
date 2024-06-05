@@ -1,0 +1,15 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        
+
+        {
+            "type": "java",
+            "name": "Debug (Launch) - Current File",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "DesafioControleFluxo",
+            "args": ""
+        }
+    ]
+}
